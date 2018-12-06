@@ -1,6 +1,6 @@
-#include<stdlib.h>
-#include<stdio.h>
-#include<string.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
 
 char pilha[1001];
 int topo = 0, qtd = 0;
