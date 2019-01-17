@@ -1,6 +1,7 @@
 ''' /*
      * Fazer um programa que apresente a sequencia conforme o exemplo abaixo.
      * Não tem entrada, mas a saida deve ser:
+     
      * I=1 J=7
      * I=1 J=6
      * I=1 J=5
